@@ -7,5 +7,5 @@
 
 ```
 
-$y=ax+b$
+$y=ax+$
 > An awesome project.
